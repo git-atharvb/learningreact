@@ -1,5 +1,4 @@
 // import React from 'react';
-// import Product from './components/Product';
 import Items from './components/Items';
 
 //Declaring a functional component named App
