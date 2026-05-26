@@ -1,11 +1,12 @@
 // import React from 'react';
-import Items from './components/Items';
+// import Items from './components/Items';
+import Events from './components/Events';
 
 //Declaring a functional component named App
 const App = () => {
   return (
     <div>
-      <Items />
+      <Events />
     </div>
   )
 }
